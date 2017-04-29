@@ -2,4 +2,4 @@
 
 This repository is for future development.
 
-The purpose is to use modern technology for storing and processing large amounts of data.
+The purpose is to use modern cloud technologies for storing and processing large quantities of data.
